@@ -1,3 +1,10 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xXpI7QGh)
+
+
+Nombre: Samuel Fernando Escobar Polanco
+ID: 0000354769
+URL:http://localhost:3000
+link: https://dsaw-2025-ii.github.io/parcial-ii-corte-be-comosecommitea/
 # 📝 Enunciado del examen
 
 Vas a construir una **arquitectura de tres capas**:

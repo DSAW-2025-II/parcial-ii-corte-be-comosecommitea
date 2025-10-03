@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <title>PokeApp - Parcial</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <h1>PokeApp - Parcial</h1>
+
+    <section id="login-section">
+      <h2>Login</h2>
+      <input id="email" type="email" placeholder="email" value="admin@admin.com">
+      <input id="password" type="password" placeholder="password" value="admin">
+      <button id="btnLogin">Iniciar sesión</button>
+      <p id="login-msg"></p>
+    </section>
+
+    <hr>
+
+    <section id="search-section">
+      <h2>Buscar Pokémon (endpoint protegido: pokemonDetails)</h2>
+      <input id="pokemonName" type="text" placeholder="Ej: pikachu">
+      <button id="btnSearch">Buscar</button>
+      <div id="pokemon-result"></div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
